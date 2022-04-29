@@ -1,4 +1,6 @@
-# Credit-Card-Lead-Prediction
+# Credit Card Lead Prediction
+
+![Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 ##### Steps followed are listed below
 - Defining the problem statement
